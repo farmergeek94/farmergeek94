@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Senior Software Engineer at Heartland Business Systems who genuinely enjoys the challenge of solving tough problems. I’m drawn to work that pushes me to think critically, adapt quickly, and keep learning.
+I’m a Senior Software Engineer at [Heartland Business Systems](https://www.hbs.net/) who genuinely enjoys the challenge of solving tough problems. I’m drawn to work that pushes me to think critically, adapt quickly, and keep learning.
 
 In my role, I focus on building solutions that are useful, thoughtful, and dependable. I care deeply about writing clean, maintainable code, approaching problems with intention, and improving the systems and software I work on over time. I enjoy the balance of technical problem-solving, continuous learning, and creating work that has a real impact.
 
